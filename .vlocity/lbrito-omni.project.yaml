@@ -1,0 +1,7 @@
+Name: lbrito-omni
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/DR_CreateContact
+VlocityTypesToFetch:
+    - DataRaptor
+SalesforceTypesToFetch:
